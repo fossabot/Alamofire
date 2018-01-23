@@ -1,4 +1,5 @@
 ![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FAlamofire.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FAlamofire?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg)](https://img.shields.io/cocoapods/v/Alamofire.svg)
@@ -235,3 +236,6 @@ The community adoption of the ASF libraries has been amazing. We are greatly hum
 ## License
 
 Alamofire is released under the MIT license. [See LICENSE](https://github.com/Alamofire/Alamofire/blob/master/LICENSE) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FAlamofire.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FAlamofire?ref=badge_large)
